@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title style="font-family:Arial"><span style="color:#00FBFF;">Chico, in short</span></title>
+  <meta charset="UTF-8">
+</head>
+<body style="background-color:#0032FF;">
+<p style="font-family:Times New Roman"><span style="color:#00FBFF;">According to <a href="https://en.wikipedia.org/wiki/Chico,_California" target="_blank">Wikipedia</a>, Chico is a city in Northern California with a population of over 86 thousand.</span></p>
+<ul>
+<h2 style="font-family:Arial"><span style="color:#00FBFF;">Quick facts:</h2>
+<li style="font-family:Times New Roman"><span style="color:#00FF0F;">Home of California State University, Chico</span></li>
+<li style="font-family:Times New Roman"><span style="color:#00FF0F;">Boasts USA's 24th largest city park, Bidwell Park</span></li>
+<li style="font-family:Times New Roman"><span style="color:#00FF0F;">Sierra Nevada brewery founded in Chico in 1980</span></li>
+</ul>
+</body>
+</html>
